@@ -1,10 +1,6 @@
-You made two major life decisions, attend VFS and stop taking your ADHD medication. Steven, your instructor has said this is the last time you can be late. Unfortunately, 
-random thoughts (in the form of thought bubbles) keep clouding your mind and cause you to forget import things like your wallet, bus pass and key fob.
+All of the files I worked on are within Blueprints/VSU/BP with the exception of the addtional MenuMap I created, which is located in ThirdPerson/Map.
 
-Your goal is to make it to Steven's two classes on time. Keep playing because the times of the classes will change on each play.
+Controls are now listed in the main menu with the click of a button. Only addition input is Q, which now loads a pause menu.
 
-Avoid the clouds. If one hits you, you'll drop an item. You can go pick it up after you drop it. Some items will be important.
-
-A-left
-D-Right
-Space Bar - Jump
+Same story, you're playing a student trying to get to Steven's class on time, 
+but you keep dropping important items when random thoughts (in the form of thought-cloud) collide with you.
